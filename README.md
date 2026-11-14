@@ -48,8 +48,6 @@ Analyze insights and prepare the conclusion
 <img width="962" height="543" alt="Screenshot 2026-11-14 171640" src="https://github.com/user-attachments/assets/d492df32-3276-43ee-aa95-90b748cc6b11" />
 <img width="967" height="543" alt="Screenshot 2026-11-14 171627" src="https://github.com/user-attachments/assets/80d7bef4-4a14-4c91-af9e-db53367f0f63" />
 
-## Project Insight
-
 ## Project Insights
 
 The Smoking and Health Analysis Dashboard provides an overview of patient smoking habits, health conditions, and important health indicators using Microsoft Power BI.
@@ -60,7 +58,6 @@ By comparing average cholesterol levels across blood pressure risk categories an
 
 Overall, the project transforms patient-level data into meaningful visual insights, supporting healthcare data exploration, patient monitoring, and informed management decisions.
 
-## Final conclusion
 ## Final Conclusion
 
 The Smoking and Health Analysis Dashboard was successfully developed using Microsoft Power BI to analyze patient smoking habits, health conditions, and important health indicators.
