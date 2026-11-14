@@ -45,4 +45,8 @@ Design and format the dashboard
 Analyze insights and prepare the conclusion
 
 ## Dashboard
+<img width="962" height="543" alt="Screenshot 2026-11-14 171640" src="https://github.com/user-attachments/assets/d492df32-3276-43ee-aa95-90b748cc6b11" />
+<img width="967" height="543" alt="Screenshot 2026-11-14 171627" src="https://github.com/user-attachments/assets/80d7bef4-4a14-4c91-af9e-db53367f0f63" />
 
+
+<img width="967" height="543" alt="Screenshot 2026-11-14 171627" src="https://github.com/user-attachments/assets/168f8210-86a1-498a-9107-e022cdaa266c" />
